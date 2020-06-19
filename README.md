@@ -1,2 +1,10 @@
-# Projet-acad-mique-
-Vous trouveriez sur mon compte gitHub tous les projets académique que j'ai développé dans le cadre de mes études universitaires ainsi que d'autre projet personnel que j'y dépose régulièrement et des mise à jour de ces projets éventuellement. 
+# Projet Simulation Train : 
+  Description synthétique du projet  :     
+      + Langage de programmation : java.
+      + environnement de developpement : Eclipse Version 2019-12
+      + Conception du projet à l’aide de diagramme de classe (UML).
+      + Design Pattern ( Observers - observable).
+      + Etablissement d’un protocol textuel pour l’échange de données    organisée entre Client-Serveur et la  programmation           parallèle (Thread).
+      + Programmation parallèle à l'aide des Thread.
+      + Architecture du projet  : Modèle MVC.
+
